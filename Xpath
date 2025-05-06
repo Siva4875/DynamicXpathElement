@@ -60,3 +60,4 @@ AXES Based XPath Usage
 7. Select All Preceding Elements of "Sign up" Button
 
 //a[text()='Sign up']/parent::div/preceding-sibling::div
+
